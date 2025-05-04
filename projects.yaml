@@ -3,9 +3,10 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "object"
+    title: "Object Database"
+  - category: "relational"
+    title: "Relational Database"
 
 labels:
   # - label: "python"
@@ -13,7 +14,20 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: ObjectBox C
+    github_id: objectbox/objectbox-c
+    labels: []
+    category: "object"
+  - name: ObjectBox Go
+    github_id: objectbox/objectbox-go
+    labels: []
+    category: "object"
+  - name: ObjectBox Python
+    github_id: objectbox/objectbox-python
+    labels: []
+    category: "object"
+
+  - name: SQLite
+    github_id: sqlite/sqlite
+    labels: []
+    category: "relational"
