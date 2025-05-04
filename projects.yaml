@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "analytical"
+    title: "Analytical Database"
   - category: "key-value"
     title: "Key-Value Database"
   - category: "object"
@@ -16,6 +18,11 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: DuckDB
+    github_id: duckdb/duckdb
+    labels: []
+    category: "analytical"
+
   - name: Redis
     github_id: redis/redis
     labels: []
