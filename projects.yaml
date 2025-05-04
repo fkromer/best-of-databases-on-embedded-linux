@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "key-value"
+    title: "Key-Value Database"
   - category: "object"
     title: "Object Database"
   - category: "relational"
@@ -14,6 +16,11 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: Redis
+    github_id: redis/redis
+    labels: []
+    category: "key-value"
+
   - name: ObjectBox C
     github_id: objectbox/objectbox-c
     labels: []
