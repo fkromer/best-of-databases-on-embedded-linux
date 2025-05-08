@@ -10,17 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-5-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-6-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-databases-on-embedded-linux/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-databases-on-embedded-linux?color=green&label=updated"></a>
 </p>
 
-This curated list contains 5 awesome open-source projects with a total of 78K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 6 awesome open-source projects with a total of 110K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Analytical Database](#analytical-database) _1 projects_
 - [Key-Value Database](#key-value-database) _1 projects_
 - [Object Database](#object-database) _3 projects_
 - [Relational Database](#relational-database) _1 projects_
@@ -43,13 +44,27 @@ This curated list contains 5 awesome open-source projects with a total of 78K st
 
 <br>
 
+## Analytical Database
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇43 ·  ⭐ 29K · ➕) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 540 · 🔀 2.2K · 📥 1.8M · 📦 28K · 📋 5.8K - 6% open · ⏱️ 08.05.2025):
+
+	```
+	git clone https://github.com/duckdb/duckdb
+	```
+</details>
+<br>
+
 ## Key-Value Database
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇34 ·  ⭐ 69K) - Redis is an in-memory database that persists on disk. The data model.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇34 ·  ⭐ 69K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
 </details>
 <br>
 
