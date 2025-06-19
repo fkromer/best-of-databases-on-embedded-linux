@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇43 ·  ⭐ 30K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 560 · 🔀 2.3K · 📥 2M · 📦 30K · 📋 5.9K - 6% open · ⏱️ 12.06.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 560 · 🔀 2.3K · 📥 2M · 📦 31K · 📋 5.9K - 6% open · ⏱️ 19.06.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -72,9 +72,9 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/objectbox/objectbox-go">ObjectBox Go</a></b> (🥇19 ·  ⭐ 1.2K · 📉) - Embedded Go Database, the fast alternative to SQLite,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/objectbox/objectbox-go">ObjectBox Go</a></b> (🥇19 ·  ⭐ 1.2K) - Embedded Go Database, the fast alternative to SQLite, gorm,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 50 · 📦 65 · 📋 49 - 30% open · ⏱️ 12.03.2025):
+- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 50 · 📦 65 · 📋 50 - 32% open · ⏱️ 12.03.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-go
@@ -100,7 +100,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇20 ·  ⭐ 7.9K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇20 ·  ⭐ 8K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
