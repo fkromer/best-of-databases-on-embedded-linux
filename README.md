@@ -48,9 +48,9 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇43 ·  ⭐ 30K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇43 ·  ⭐ 31K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 560 · 🔀 2.3K · 📥 2M · 📦 31K · 📋 5.9K - 6% open · ⏱️ 19.06.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 560 · 🔀 2.3K · 📥 2.1M · 📦 31K · 📋 6K - 6% open · ⏱️ 03.07.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -74,7 +74,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/objectbox/objectbox-go">ObjectBox Go</a></b> (🥇19 ·  ⭐ 1.2K) - Embedded Go Database, the fast alternative to SQLite, gorm,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 50 · 📦 65 · 📋 50 - 32% open · ⏱️ 12.03.2025):
+- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 50 · 📦 66 · 📋 50 - 32% open · ⏱️ 12.03.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-go
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 38 · 📥 360K · 📋 38 - 47% open · ⏱️ 12.05.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 370K · 📋 38 - 47% open · ⏱️ 12.05.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -90,7 +90,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉14 ·  ⭐ 150 · 💀) - Superfast on-device object & vector database for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉15 ·  ⭐ 150 · 💀) - Superfast on-device object & vector database for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
