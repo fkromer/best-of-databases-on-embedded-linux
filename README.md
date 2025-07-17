@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇43 ·  ⭐ 31K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 560 · 🔀 2.4K · 📥 2.2M · 📦 31K · 📋 6K - 6% open · ⏱️ 10.07.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 570 · 🔀 2.4K · 📥 2.2M · 📦 31K · 📋 6K - 6% open · ⏱️ 17.07.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 370K · 📋 38 - 47% open · ⏱️ 12.05.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 380K · 📋 38 - 47% open · ⏱️ 12.05.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -100,7 +100,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇20 ·  ⭐ 8K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇20 ·  ⭐ 8.1K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
