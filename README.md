@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 33K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 590 · 🔀 2.5K · 📥 2.6M · 📦 51 · 📋 6.2K - 7% open · ⏱️ 11.09.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 590 · 🔀 2.5K · 📥 2.7M · 📦 51 · 📋 6.2K - 7% open · ⏱️ 18.09.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -74,7 +74,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/objectbox/objectbox-go">ObjectBox Go</a></b> (🥇18 ·  ⭐ 1.2K) - Embedded Go Database, the fast alternative to SQLite, gorm,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 50 · 📦 68 · 📋 50 - 32% open · ⏱️ 12.03.2025):
+- [GitHub](https://github.com/objectbox/objectbox-go) (👨‍💻 11 · 🔀 49 · 📦 68 · 📋 49 - 32% open · ⏱️ 12.03.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-go
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 39 · 📥 400K · 📋 38 - 47% open · ⏱️ 28.07.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 39 · 📥 400K · 📋 37 - 48% open · ⏱️ 28.07.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
