@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 33K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 590 · 🔀 2.5K · 📥 2.7M · 📦 51 · 📋 6.2K - 7% open · ⏱️ 18.09.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 600 · 🔀 2.5K · 📥 2.7M · 📦 51 · 📋 6.2K - 7% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 39 · 📥 400K · 📋 37 - 48% open · ⏱️ 28.07.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 39 · 📥 410K · 📋 37 - 48% open · ⏱️ 28.07.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -90,7 +90,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉15 ·  ⭐ 150 · 💀) - Superfast on-device object & vector database for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉15 ·  ⭐ 160 · 💀) - Superfast on-device object & vector database for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -100,7 +100,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇21 ·  ⭐ 8.3K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇21 ·  ⭐ 8.4K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
