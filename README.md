@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 33K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 600 · 🔀 2.6K · 📥 2.9M · 📦 51 · 📋 6.3K - 7% open · ⏱️ 09.10.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 600 · 🔀 2.6K · 📥 2.9M · 📦 51 · 📋 6.3K - 7% open · ⏱️ 16.10.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -100,7 +100,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇21 ·  ⭐ 8.4K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇21 ·  ⭐ 8.5K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
