@@ -15,7 +15,7 @@
     <a href="https://github.com/fkromer/best-of-databases-on-embedded-linux/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-databases-on-embedded-linux?color=green&label=updated"></a>
 </p>
 
-This curated list contains 6 awesome open-source projects with a total of 110K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 6 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -48,9 +48,9 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 33K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 34K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 600 · 🔀 2.6K · 📥 2.9M · 📦 51 · 📋 6.3K - 7% open · ⏱️ 16.10.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 610 · 🔀 2.6K · 📥 3M · 📦 51 · 📋 6.3K - 7% open · ⏱️ 21.10.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 110K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 39 · 📥 420K · 📋 38 - 50% open · ⏱️ 03.10.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 420K · 📋 38 - 50% open · ⏱️ 03.10.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
