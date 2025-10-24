@@ -45,3 +45,7 @@ projects:
     github_id: sqlite/sqlite
     labels: []
     category: "relational"
+  - name: Turso
+    github_id: tursodatabase/turso
+    labels: []
+    category: "relational"
