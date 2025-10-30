@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-6-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-7-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-databases-on-embedded-linux/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-databases-on-embedded-linux?color=green&label=updated"></a>
 </p>
 
-This curated list contains 6 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 7 awesome open-source projects with a total of 130K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-databases-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-databases-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-databases-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,7 +24,7 @@ This curated list contains 6 awesome open-source projects with a total of 120K s
 - [Analytical Database](#analytical-database) _1 projects_
 - [Key-Value Database](#key-value-database) _1 projects_
 - [Object Database](#object-database) _3 projects_
-- [Relational Database](#relational-database) _1 projects_
+- [Relational Database](#relational-database) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -50,7 +50,7 @@ This curated list contains 6 awesome open-source projects with a total of 120K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 34K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 610 · 🔀 2.6K · 📥 3M · 📦 51 · 📋 6.3K - 7% open · ⏱️ 21.10.2025):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 610 · 🔀 2.6K · 📥 3M · 📦 51 · 📋 6.3K - 8% open · ⏱️ 30.10.2025):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -64,7 +64,7 @@ This curated list contains 6 awesome open-source projects with a total of 120K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 71K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 72K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -82,7 +82,7 @@ This curated list contains 6 awesome open-source projects with a total of 120K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 230) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 420K · 📋 38 - 50% open · ⏱️ 03.10.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 40 · 📥 430K · 📋 38 - 50% open · ⏱️ 03.10.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -98,9 +98,17 @@ This curated list contains 6 awesome open-source projects with a total of 120K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇33 ·  ⭐ 14K · ➕) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 170 · 🔀 580 · 📥 9.7K · 📦 23 · 📋 1.2K - 26% open · ⏱️ 30.10.2025):
+
+	```
+	git clone https://github.com/tursodatabase/turso
+	```
+</details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥇21 ·  ⭐ 8.5K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥉21 ·  ⭐ 8.5K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
