@@ -50,7 +50,7 @@ This curated list contains 7 awesome open-source projects with a total of 130K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 35K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 660 · 🔀 2.8K · 📥 3.6M · 📦 51 · 📋 6.5K - 7% open · ⏱️ 08.01.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 660 · 🔀 2.8K · 📥 3.6M · 📦 51 · 📋 6.5K - 7% open · ⏱️ 15.01.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -64,7 +64,7 @@ This curated list contains 7 awesome open-source projects with a total of 130K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 72K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 73K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -80,15 +80,15 @@ This curated list contains 7 awesome open-source projects with a total of 130K s
 	git clone https://github.com/objectbox/objectbox-go
 	```
 </details>
-<details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 250 · 📉) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 250) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 460K · 📋 38 - 50% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 470K · 📋 38 - 50% open · ⏱️ 27.11.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
 	```
 </details>
-<details><summary><b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉17 ·  ⭐ 170 · 📈) - Superfast on-device object & vector database for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉17 ·  ⭐ 170) - Superfast on-device object & vector database for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/objectbox/objectbox-python) (👨‍💻 13 · 🔀 21 · 📦 73 · 📋 17 - 47% open · ⏱️ 08.09.2025):
 
@@ -102,9 +102,9 @@ This curated list contains 7 awesome open-source projects with a total of 130K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇34 ·  ⭐ 16K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇35 ·  ⭐ 16K · 📈) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 190 · 🔀 680 · 📥 14K · 📦 42 · 📋 1.4K - 25% open · ⏱️ 08.01.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 190 · 🔀 680 · 📥 13K · 📦 44 · 📋 1.4K - 26% open · ⏱️ 15.01.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
@@ -112,7 +112,7 @@ This curated list contains 7 awesome open-source projects with a total of 130K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥉21 ·  ⭐ 8.8K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥉21 ·  ⭐ 8.9K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
