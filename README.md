@@ -48,9 +48,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇40 ·  ⭐ 36K · 📉) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 36K · 📈) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 670 · 🔀 2.8K · 📥 3.8M · 📦 51 · 📋 6.5K - 7% open · ⏱️ 05.02.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 680 · 🔀 2.8K · 📥 3.8M · 📦 51 · 📋 6.5K - 7% open · ⏱️ 12.02.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -82,7 +82,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥇18 ·  ⭐ 260) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 480K · 📋 38 - 50% open · ⏱️ 19.01.2026):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 490K · 📋 38 - 50% open · ⏱️ 19.01.2026):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -104,7 +104,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇36 ·  ⭐ 17K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 200 · 🔀 710 · 📥 16K · 📦 57 · 📋 1.6K - 29% open · ⏱️ 05.02.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 200 · 🔀 720 · 📥 14K · 📦 60 · 📋 1.6K - 30% open · ⏱️ 12.02.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
