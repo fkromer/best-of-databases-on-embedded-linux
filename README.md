@@ -50,7 +50,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 36K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 680 · 🔀 2.9K · 📥 3.9M · 📦 51 · 📋 6.6K - 8% open · ⏱️ 19.02.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 680 · 🔀 2.9K · 📥 4M · 📦 51 · 📋 6.6K - 8% open · ⏱️ 26.02.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -80,20 +80,20 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 	git clone https://github.com/objectbox/objectbox-go
 	```
 </details>
-<details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥇18 ·  ⭐ 260) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 490K · 📋 38 - 50% open · ⏱️ 19.01.2026):
-
-	```
-	git clone https://github.com/objectbox/objectbox-c
-	```
-</details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-python">ObjectBox Python</a></b> (🥉17 ·  ⭐ 180) - Superfast on-device object & vector database for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-python) (👨‍💻 13 · 🔀 22 · 📦 73 · 📋 19 - 42% open · ⏱️ 08.09.2025):
+- [GitHub](https://github.com/objectbox/objectbox-python) (👨‍💻 13 · 🔀 22 · 📦 73 · 📋 20 - 45% open · ⏱️ 08.09.2025):
 
 	```
 	git clone https://github.com/objectbox/objectbox-python
+	```
+</details>
+<details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 260 · 📉) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 500K · 📋 38 - 50% open · ⏱️ 19.01.2026):
+
+	```
+	git clone https://github.com/objectbox/objectbox-c
 	```
 </details>
 <br>
@@ -102,9 +102,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇36 ·  ⭐ 17K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇37 ·  ⭐ 18K · 📈) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 210 · 🔀 730 · 📥 15K · 📦 61 · 📋 1.8K - 26% open · ⏱️ 19.02.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 210 · 🔀 750 · 📥 16K · 📦 62 · 📋 1.8K - 24% open · ⏱️ 26.02.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
