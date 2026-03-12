@@ -48,9 +48,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 36K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 37K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 690 · 🔀 2.9K · 📥 4M · 📦 51 · 📋 6.6K - 8% open · ⏱️ 05.03.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 690 · 🔀 2.9K · 📥 4.1M · 📦 51 · 📋 6.6K - 8% open · ⏱️ 12.03.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -90,7 +90,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 </details>
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉16 ·  ⭐ 260) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 500K · 📋 38 - 50% open · ⏱️ 19.01.2026):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 41 · 📥 510K · 📋 38 - 50% open · ⏱️ 06.03.2026):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -104,7 +104,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇37 ·  ⭐ 18K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 220 · 🔀 760 · 📥 11K · 📦 65 · 📋 1.8K - 22% open · ⏱️ 05.03.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 220 · 🔀 780 · 📥 12K · 📦 69 · 📋 1.9K - 24% open · ⏱️ 12.03.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
@@ -112,7 +112,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥉21 ·  ⭐ 9.1K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sqlite/sqlite">SQLite</a></b> (🥉21 ·  ⭐ 9.2K) - Official Git mirror of the SQLite source tree. <code>❗Unlicensed</code>
 </details>
 
 ---
