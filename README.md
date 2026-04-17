@@ -48,9 +48,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 37K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 38K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 710 · 🔀 3K · 📥 4.3M · 📦 51 · 📋 6.8K - 8% open · ⏱️ 09.04.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 720 · 🔀 3.1K · 📥 4.4M · 📦 51 · 📋 6.8K - 7% open · ⏱️ 16.04.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -74,7 +74,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 260) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 42 · 📥 530K · 📋 38 - 50% open · ⏱️ 26.03.2026):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 42 · 📥 540K · 📋 38 - 50% open · ⏱️ 26.03.2026):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -98,9 +98,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇36 ·  ⭐ 18K · 📉) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇35 ·  ⭐ 18K · 📉) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 240 · 🔀 820 · 📥 10K · 📦 86 · 📋 2.1K - 24% open · ⏱️ 09.04.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 240 · 🔀 830 · 📥 7.6K · 📦 90 · 📋 2.1K - 24% open · ⏱️ 16.04.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
