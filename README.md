@@ -48,9 +48,9 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇41 ·  ⭐ 38K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇42 ·  ⭐ 38K · 📈) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 740 · 🔀 3.2K · 📥 4.9M · 📦 51 · 📋 6.9K - 6% open · ⏱️ 21.05.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 740 · 🔀 3.2K · 📥 5M · 📦 51 · 📋 6.9K - 6% open · ⏱️ 28.05.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -64,7 +64,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 74K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/redis/redis">Redis</a></b> (🥇33 ·  ⭐ 75K) - For developers, who are building real-time data-driven applications,.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -74,7 +74,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/objectbox/objectbox-c">ObjectBox C</a></b> (🥉17 ·  ⭐ 270) - C and C++ database for objects and structs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 42 · 📥 580K · 📋 38 - 50% open · ⏱️ 05.05.2026):
+- [GitHub](https://github.com/objectbox/objectbox-c) (👨‍💻 5 · 🔀 42 · 📥 590K · 📋 38 - 50% open · ⏱️ 05.05.2026):
 
 	```
 	git clone https://github.com/objectbox/objectbox-c
@@ -100,7 +100,7 @@ This curated list contains 7 awesome open-source projects with a total of 140K s
 
 <details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇36 ·  ⭐ 19K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 260 · 🔀 960 · 📥 13K · 📦 140 · 📋 2.3K - 24% open · ⏱️ 21.05.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 270 · 🔀 980 · 📥 13K · 📦 140 · 📋 2.3K - 24% open · ⏱️ 28.05.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
