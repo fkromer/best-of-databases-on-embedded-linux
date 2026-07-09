@@ -50,7 +50,7 @@ This curated list contains 7 awesome open-source projects with a total of 150K s
 
 <details><summary><b><a href="https://github.com/duckdb/duckdb">DuckDB</a></b> (🥇42 ·  ⭐ 39K) - DuckDB is an analytical in-process SQL database management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 780 · 🔀 3.3K · 📥 5.7M · 📦 51 · 📋 7K - 6% open · ⏱️ 02.07.2026):
+- [GitHub](https://github.com/duckdb/duckdb) (👨‍💻 780 · 🔀 3.3K · 📥 5.8M · 📦 51 · 📋 7.1K - 6% open · ⏱️ 09.07.2026):
 
 	```
 	git clone https://github.com/duckdb/duckdb
@@ -100,7 +100,7 @@ This curated list contains 7 awesome open-source projects with a total of 150K s
 
 <details><summary><b><a href="https://github.com/tursodatabase/turso">Turso</a></b> (🥇37 ·  ⭐ 23K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 280 · 🔀 1.1K · 📥 25K · 📦 140 · 📋 2.5K - 26% open · ⏱️ 02.07.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 280 · 🔀 1.1K · 📥 26K · 📦 140 · 📋 2.5K - 26% open · ⏱️ 09.07.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
