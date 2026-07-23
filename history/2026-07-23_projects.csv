@@ -1,0 +1,8 @@
+,name,github_id,labels,category,homepage,dependent_project_count,github_dependent_project_count,contributor_count,description,projectrank,show,projectrank_placing,trending
+0,DuckDB,duckdb/duckdb,[],analytical,{},51.0,51.0,795,,5,False,1.0,-37.0
+1,Turso,tursodatabase/turso,[],relational,{},141.0,141.0,288,,5,False,1.0,-32.0
+2,Redis,redis/redis,[],key-value,{},24.0,24.0,938,,4,False,1.0,-29.0
+3,ObjectBox Go,objectbox/objectbox-go,[],object,{},70.0,70.0,14,,3,False,1.0,
+4,ObjectBox Python,objectbox/objectbox-python,[],object,{},73.0,73.0,13,,3,False,1.0,
+5,SQLite,sqlite/sqlite,[],relational,{},2.0,2.0,37,,1,False,3.0,-20.0
+6,ObjectBox C,objectbox/objectbox-c,[],object,{},,,5,,0,False,,-16.0
